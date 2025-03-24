@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: zilptr-azure-ttt
-  AZURE_WEBAPP_NAME: zilptr-ttt-app
+  DOCKER_IMAGE_NAME: zilptr2-azure-ttt
+  AZURE_WEBAPP_NAME: zilptr2-ttt-app
   ###############################################
 
 jobs:
